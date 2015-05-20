@@ -17,6 +17,7 @@ Router.map(function() {
   this.route('forum');
   this.route('website');
   this.route('datablast');
+  this.route('kelly-sutton-post');
   this.route('on-to-the-talks');
 });
 
