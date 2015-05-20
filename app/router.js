@@ -18,6 +18,7 @@ Router.map(function() {
   this.route('website');
   this.route('datablast');
   this.route('kelly-sutton-post');
+  this.route('ember-cli-ssl');
   this.route('on-to-the-talks');
 });
 
